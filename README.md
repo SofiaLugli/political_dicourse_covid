@@ -15,3 +15,5 @@ to discuss topics related to the population and patients. However, it is importa
 boundaries between these frames and topics are fuzzy and they often overlap and intersect with
 one another.
 
+___
+For an interactive visualisation of the results download the "WHO_LDA_visualisation" & "TRUMP_LDA_visualisation" files.
